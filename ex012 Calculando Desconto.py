@@ -1,0 +1,7 @@
+preco = float(input("Digite o valor do produto:R$"))
+print("O valor de com desconto de 5% é R${}".format(preco-(preco*5/100)))
+print("O valor de com desconto de 10% é R${}".format(preco-(preco*10/100)))
+print("O valor de com desconto de 15% é R${}".format(preco-(preco*15/100)))
+print("O valor de com desconto de 25% é R${}".format(preco-(preco*25/100)))
+print("O valor de com desconto de 35% é R${}".format(preco-(preco*35/100)))
+print("O valor de com desconto de 50% é R${}".format(preco-(preco*50/100)))
